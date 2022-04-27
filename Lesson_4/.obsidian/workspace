@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a39a457a21c368e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0922de8afd21c11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9. More Methods.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89a1aa10afccf859",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e1f71d077b3dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e64cade5c93b346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38ae8908a966cc5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325
+  },
+  "right": {
+    "id": "0e04eea3ab444031",
+    "type": "split",
+    "children": [
+      {
+        "id": "d532c8f2a1de583e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068c55892272f00e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9. More Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0922de8afd21c11",
+  "lastOpenFiles": [
+    "9. More Methods.md",
+    "11. Practice Problems - Additional Practice.md",
+    "10. Practice Problems - Methods and more methods.md",
+    "8. Methods.md",
+    "7. Selection and Transformation.md",
+    "The PEDAC Problem Solving Process.md",
+    "Examples and Test Cases.md",
+    "4. Introduction to PEDAC process.md",
+    "3. Looping.md",
+    "2. Collections Basics.md"
+  ]
+}
